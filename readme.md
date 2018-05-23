@@ -1,5 +1,7 @@
 # Next.js Plugins
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeit/next-plugins.svg)](https://greenkeeper.io/)
+
 ## Official Next.js plugins
 
 - [@zeit/next-mdx](./packages/next-mdx)
