@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": "zeit/next-plugins",
   "dependencies": {
-    "@mdx-js/loader": "^0.7.0"
+    "@mdx-js/loader": "^0.9.0"
   },
   "peerDependencies": {
     "@mdx-js/mdx": ">=0.7.1"
