@@ -10,7 +10,7 @@
     "less-loader": "4.1.0"
   },
   "devDependencies": {
-    "less": "^2.7.3"
+    "less": "^3.0.4"
   },
   "peerDependencies": {
     "less": "^2.7.3"
